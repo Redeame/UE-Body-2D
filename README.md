@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23291114/README.md)
 # UE-Body-2D
 Minimalistic rigidbody 2D physics implementation for unreal engine
 ## Features
