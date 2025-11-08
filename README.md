@@ -94,6 +94,9 @@ RigidbodyComponent.Constraints = Constraints;
 
 https://github.com/user-attachments/assets/75d989af-618d-4eb9-b599-c68b223eb25e
 
+##ToDo
+- Update the code to inherit from UPawnMovementComponent.
+
 ## Acknowledgements
 
  - [Unity Rigidbody2D System](https://docs.unity3d.com/ScriptReference/Rigidbody2D.html)
